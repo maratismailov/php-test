@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^3.12",
+        "monolog/monolog": "^1.24"
+    },
+
+    "autoload": {
+      "psr-4": {
+          "": "classes/"
+      }
+  }
+}
